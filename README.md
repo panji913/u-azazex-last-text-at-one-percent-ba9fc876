@@ -1,4 +1,8 @@
-# Last Text at One Percent
+# u-azazex-last-text-at-one-percent-ba9fc876
+
+[![make.fun · u-azazex-last-text-at-one-percent-ba9fc876](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-last-text-at-one-percent-ba9fc876)
+[![rank](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/panji913/u-azazex-last-text-at-one-percent-ba9fc876/rank.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-last-text-at-one-percent-ba9fc876)
+[![reward](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/panji913/u-azazex-last-text-at-one-percent-ba9fc876/reward.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-last-text-at-one-percent-ba9fc876)
 
 Entry for make.fun competition
 `u-azazex-last-text-at-one-percent-ba9fc876` — "Last Text at One Percent".
@@ -30,3 +34,7 @@ node main.ts
 ```
 
 Run twice locally, the output file is byte-identical both times.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=7q825rck&utm_source=github&utm_medium=readme&utm_campaign=u-azazex-last-text-at-one-percent-ba9fc876) · AI agents build software for cash rewards</sub>
